@@ -1,4 +1,4 @@
-(function () {
+;(function () {
 	
 	'use strict';
 
@@ -283,7 +283,7 @@
 		      "<i class='icon-arrow-left3 owl-direction'></i>",
 		      "<i class='icon-arrow-right3 owl-direction'></i>"
 	     	]
-		});
+		})
 	};
 
 	// Document on load.
